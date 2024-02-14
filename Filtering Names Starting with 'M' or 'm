@@ -1,0 +1,5 @@
+names = ["margarita", "Linda", "Masako", "Maki", "Angela"]
+ 
+M_names = filter(lambda name: name[0] == "M" or name[0] == "m", names) 
+ 
+print(list(M_names))
