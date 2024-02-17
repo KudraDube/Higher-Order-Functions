@@ -1,3 +1,5 @@
+Welcome to the repo on Higher-order-functions! Feel free to go through the repo and make a contribution or collaborate!
+
 Higher-order functions in Python are functions that can take other functions as arguments or return functions as their result. In Python, functions are first-class citizens, meaning they can be assigned to variables, passed as arguments, and returned from other functions just like any other data type such as integers, strings, or lists.
 
 Here's an example of a higher-order function in Python:
